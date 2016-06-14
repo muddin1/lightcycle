@@ -1,5 +1,7 @@
 # LightCycle
 
+[![Join the chat at https://gitter.im/muddin1/lightcycle](https://badges.gitter.im/muddin1/lightcycle.svg)](https://gitter.im/muddin1/lightcycle?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0) [![Platform](https://img.shields.io/badge/platform-android-green.svg)](http://developer.android.com/index.html)
 
 LightCycle is an Android library that helps break logic out of `Activity` and `Fragment` classes into small, self-contained components called LightCycles.
